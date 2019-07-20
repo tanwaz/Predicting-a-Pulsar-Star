@@ -1,0 +1,2 @@
+# Predicting-a-Pulsar-Star
+This project uses the random forest model to predict whether a pulsar star is real or fake. The dataset has an imbalanced target variable. We used model metrics (confusion matrix, recalling and precision) to examine the model accuracy under the original imbalanced dataset, the SMOTE and Near Miss resampling methods to reason why a model is inconclusive under an imbalanced dataset. 
